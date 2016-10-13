@@ -70,7 +70,7 @@ Los datos abiertos es un movimiento en crecimiento. Es probable que haya mucha g
 
 ## Solicita una Licencia Abierta (Apertura Legal)
 
-En la mayoría de las jurisdicciones existen derechos de propiedad intelectual de los datos, los cuales evitan que terceros los usen, reutilicen o redistribuyan sin el permiso explícito. Aún en lugares donde la existencia de derechos es incierta, es importante aplicar una licencia simplemente en aras de la claridad. Por lo tanto, **si está planeando hacer disponible sus datos, debería ponerles una licencia** - y y si desea que sus datos sean [libres](http://opendefinition.org/) esto es aún más importante.
+En la mayoría de las jurisdicciones existen derechos de propiedad intelectual de los datos, los cuales evitan que terceros los usen, reutilicen o redistribuyan sin el permiso explícito. Aún en lugares donde la existencia de derechos es incierta, es importante aplicar una licencia simplemente en aras de la claridad. Por lo tanto, **si está planeando hacer disponible sus datos, debería ponerles una licencia** - y si desea que sus datos sean [libres](http://opendefinition.org/) esto es aún más importante.
 
 ¿Qué licencias puedes usar? Recomendamos que para "abrir" datos use una de las licencias alineadas con la 'Definición de Abierto"\_ y marcarlas como adecuada para datos. Esta lista (además de las instrucciones para su uso) puede ser localizada en:
 
